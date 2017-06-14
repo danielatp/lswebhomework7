@@ -1,12 +1,16 @@
 # Homework #7
 
+Lesson 7 link: https://www.youtube.com/watch?v=CDg9qtuGNAo
+
+
+
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array: a list of elements.
+	* Object: is like a description of a real object in js. each object has properties, which each has a value; and methods. 
+	* Method: like a property in an object, but methos do something. perform an action. Properties just have values.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
